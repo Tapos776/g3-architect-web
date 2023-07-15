@@ -1,0 +1,9 @@
+/* work sans font form google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Montserrat&family=Raleway&family=Spirax&family=Work+Sans:wght@200;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
